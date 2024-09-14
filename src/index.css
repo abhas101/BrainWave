@@ -2,3 +2,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.dark{
+    background-color: rgb(172, 96, 96);
+    background-image: black;
+    color: rgb(255, 255, 255);
+    transition:all .3s ease-in;
+}

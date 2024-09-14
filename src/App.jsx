@@ -11,7 +11,7 @@ import Footer from "./components/Footer.jsx";
 export default function App() {
   return (
     <>
-      <div className="pageWrapper overflow-x-hidden">
+      <div className="pageWrapper overflow-x-hidden" id="body">
         <TopBar />
         <Navbar />
         <Hero />
