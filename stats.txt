@@ -1,0 +1,7 @@
+width will be 80%
+
+max-w-7xl mx-auto pt-20 px-6
+
+for moble px-2 py-2
+for table px-4 py-4
+for coumputer p-5 px-5
