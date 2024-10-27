@@ -1,5 +1,5 @@
 import React from 'react'
-import Prodcut from '../assets/product-image.png'
+import Prodcut from '../assets/ProductImage.png'
 import Tube from '../assets/tube.png'
 import  Pyramid  from '../assets/pyramid.png'
 import gsap from 'gsap'
@@ -45,18 +45,14 @@ const ProductPage = () => {
     })
 
 
-
-
-
-
     return (
         <>
 
             <div className="productPageWrapper">
-                <div className="productPage mt-40 flex flex-col p-2 justify-center items-center font-base bg-gradient-to-b from-white to-blue-200 relative">
-                    <p className='border text-center rounded-md px-2 py-1'>Boost your productivity</p>
-                    <h2 className='mt-10 text-3xl text-center font-bold'>A more effective way to <br></br><span className='text-transparent bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text'>track progress</span></h2>
-                    <p className='mt-10 text-center w-auto tracking-wider'>Celebrate the joy of accomplishment with an app designed to track your progress and motivate your efforts.</p>
+                <div className="productPage mt-20 flex flex-col p-2 justify-center items-center font-base  relative">
+                    <p className='border text-center rounded-md px-2 py-1'>Built by Leaders in Open-source Agentic Technology & Research</p>
+                    <h2 className='mt-10 text-3xl text-center font-bold'>‍Grow Your Business, Not Your <br></br><span className='text-transparent bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text'>Headcount</span></h2>
+                    <p className='mt-10 text-center w-96 tracking-wider'>A combination of a System of Record that stores all critical business data & a System of Action via our agent framework that forms a System of Intelligence. Together, SoR, SoA, and SoI constitute what we call Business SuperIntelligence</p>
                     <img src={Prodcut} alt="product" className='mt-10 rounded-md shadow-md' />
 
                     {/* images */}

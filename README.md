@@ -1,5 +1,4 @@
-Brainwave UI design
-
+Super AGI website Design
 Tech stack:
 
 React

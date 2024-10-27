@@ -4,24 +4,24 @@
 
 const navLinks = [
     {
-        "name":"About",
-        "link":"#"
+        "name":"Platform",
+        "link":"https://superagi.com/"
     },
     {
-        "name":"Features",
-        "link":"#"        
+        "name":"Research",
+        "link":"https://superagi.com/agi-research-lab/"        
     },
     {
-        "name":"Customers",
-        "link":"#"        
+        "name":"Open-source",
+        "link":"https://superagi.com/open-source/"        
     },
     {
-        "name":"Updates",
-        "link":"#"        
+        "name":"Resources",
+        "link":"https://superagi.com/"        
     },
     {
-        "name":"Help",
-        "link":"#"        
+        "name":"Partner",
+        "link":"https://superagi.com/partners/"        
     }
 ]
 
